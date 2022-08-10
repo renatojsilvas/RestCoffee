@@ -1,4 +1,4 @@
-## CoffeeRest
+## RestCoffee
 
 ### What is?
 
