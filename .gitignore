@@ -1,0 +1,6 @@
+.vscode/
+*.log
+__pycache__/
+*pytest*
+*sqlite3
+data/
